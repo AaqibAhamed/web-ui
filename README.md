@@ -1,2 +1,1 @@
-# web-ui
-Casbin Official Web UI, for Casbin &amp; Casbin-Server
+# This project is deprecated, please see instead: https://github.com/casbin/casbin-dashboard
